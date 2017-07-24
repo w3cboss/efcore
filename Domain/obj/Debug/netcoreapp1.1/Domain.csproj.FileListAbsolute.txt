@@ -1,0 +1,9 @@
+E:\vsproject\Core\Domain\bin\Debug\netcoreapp1.1\Domain.deps.json
+E:\vsproject\Core\Domain\bin\Debug\netcoreapp1.1\Domain.dll
+E:\vsproject\Core\Domain\bin\Debug\netcoreapp1.1\Domain.pdb
+E:\vsproject\Core\Domain\bin\Debug\netcoreapp1.1\Common.dll
+E:\vsproject\Core\Domain\bin\Debug\netcoreapp1.1\Common.pdb
+E:\vsproject\Core\Domain\obj\Debug\netcoreapp1.1\Domain.csprojResolveAssemblyReference.cache
+E:\vsproject\Core\Domain\obj\Debug\netcoreapp1.1\Domain.AssemblyInfo.cs
+E:\vsproject\Core\Domain\obj\Debug\netcoreapp1.1\Domain.dll
+E:\vsproject\Core\Domain\obj\Debug\netcoreapp1.1\Domain.pdb

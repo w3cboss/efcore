@@ -1,0 +1,17 @@
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Core.deps.json
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Core.runtimeconfig.json
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Core.runtimeconfig.dev.json
+E:\vsproject\Core\Core\obj\Debug\netcoreapp1.1\Core.csprojResolveAssemblyReference.cache
+E:\vsproject\Core\Core\obj\Debug\netcoreapp1.1\Core.AssemblyInfo.cs
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Core.dll
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Core.pdb
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Common.dll
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Dao.dll
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Domain.dll
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Service.dll
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Service.pdb
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Common.pdb
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Dao.pdb
+E:\vsproject\Core\Core\bin\Debug\netcoreapp1.1\Domain.pdb
+E:\vsproject\Core\Core\obj\Debug\netcoreapp1.1\Core.dll
+E:\vsproject\Core\Core\obj\Debug\netcoreapp1.1\Core.pdb

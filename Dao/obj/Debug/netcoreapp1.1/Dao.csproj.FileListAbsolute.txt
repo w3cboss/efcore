@@ -1,0 +1,11 @@
+E:\vsproject\Core\Dao\bin\Debug\netcoreapp1.1\Dao.deps.json
+E:\vsproject\Core\Dao\bin\Debug\netcoreapp1.1\Dao.dll
+E:\vsproject\Core\Dao\bin\Debug\netcoreapp1.1\Dao.pdb
+E:\vsproject\Core\Dao\bin\Debug\netcoreapp1.1\Common.dll
+E:\vsproject\Core\Dao\bin\Debug\netcoreapp1.1\Domain.dll
+E:\vsproject\Core\Dao\bin\Debug\netcoreapp1.1\Domain.pdb
+E:\vsproject\Core\Dao\bin\Debug\netcoreapp1.1\Common.pdb
+E:\vsproject\Core\Dao\obj\Debug\netcoreapp1.1\Dao.csprojResolveAssemblyReference.cache
+E:\vsproject\Core\Dao\obj\Debug\netcoreapp1.1\Dao.AssemblyInfo.cs
+E:\vsproject\Core\Dao\obj\Debug\netcoreapp1.1\Dao.dll
+E:\vsproject\Core\Dao\obj\Debug\netcoreapp1.1\Dao.pdb
